@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="channel01" tvg-name="Channel 01",Channel 01
+https://ch01-nlivecdn.spotvnow.co.kr/ch01/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel02" tvg-name="Channel 02",Channel 02
+https://ch02-nlivecdn.spotvnow.co.kr/ch02/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel03" tvg-name="Channel 03",Channel 03
+https://ch03-nlivecdn.spotvnow.co.kr/ch03/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel04" tvg-name="Channel 04",Channel 04
+https://ch04-nlivecdn.spotvnow.co.kr/ch04/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel05" tvg-name="Channel 05",Channel 05
+https://ch05-nlivecdn.spotvnow.co.kr/ch05/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel06" tvg-name="Channel 06",Channel 06
+https://ch06-nlivecdn.spotvnow.co.kr/ch06/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel07" tvg-name="Channel 07",Channel 07
+https://ch07-nlivecdn.spotvnow.co.kr/ch07/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel08" tvg-name="Channel 08",Channel 08
+https://ch08-nlivecdn.spotvnow.co.kr/ch08/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel09" tvg-name="Channel 09",Channel 09
+https://ch09-nlivecdn.spotvnow.co.kr/ch09/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel10" tvg-name="Channel 10",Channel 10
+https://ch10-nlivecdn.spotvnow.co.kr/ch10/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel11" tvg-name="Channel 11",Channel 11
+https://ch11-nlivecdn.spotvnow.co.kr/ch11/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel12" tvg-name="Channel 12",Channel 12
+https://ch12-nlivecdn.spotvnow.co.kr/ch12/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel13" tvg-name="Channel 13",Channel 13
+https://ch13-nlivecdn.spotvnow.co.kr/ch13/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel14" tvg-name="Channel 14",Channel 14
+https://ch14-nlivecdn.spotvnow.co.kr/ch14/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel15" tvg-name="Channel 15",Channel 15
+https://ch15-nlivecdn.spotvnow.co.kr/ch15/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel16" tvg-name="Channel 16",Channel 16
+https://ch16-nlivecdn.spotvnow.co.kr/ch16/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel17" tvg-name="Channel 17",Channel 17
+https://ch17-nlivecdn.spotvnow.co.kr/ch17/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel18" tvg-name="Channel 18",Channel 18
+https://ch18-nlivecdn.spotvnow.co.kr/ch18/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel19" tvg-name="Channel 19",Channel 19
+https://ch19-nlivecdn.spotvnow.co.kr/ch19/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel20" tvg-name="Channel 20",Channel 20
+https://ch20-nlivecdn.spotvnow.co.kr/ch20/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel21" tvg-name="Channel 21",Channel 21
+https://ch21-nlivecdn.spotvnow.co.kr/ch21/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel22" tvg-name="Channel 22",Channel 22
+https://ch22-nlivecdn.spotvnow.co.kr/ch22/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel23" tvg-name="Channel 23",Channel 23
+https://ch23-nlivecdn.spotvnow.co.kr/ch23/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel24" tvg-name="Channel 24",Channel 24
+https://ch24-nlivecdn.spotvnow.co.kr/ch24/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel25" tvg-name="Channel 25",Channel 25
+https://ch25-nlivecdn.spotvnow.co.kr/ch25/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel26" tvg-name="Channel 26",Channel 26
+https://ch26-nlivecdn.spotvnow.co.kr/ch26/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel27" tvg-name="Channel 27",Channel 27
+https://ch27-nlivecdn.spotvnow.co.kr/ch27/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel28" tvg-name="Channel 28",Channel 28
+https://ch28-nlivecdn.spotvnow.co.kr/ch28/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel29" tvg-name="Channel 29",Channel 29
+https://ch29-nlivecdn.spotvnow.co.kr/ch29/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel30" tvg-name="Channel 30",Channel 30
+https://ch30-nlivecdn.spotvnow.co.kr/ch30/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel31" tvg-name="Channel 31",Channel 31
+https://ch31-nlivecdn.spotvnow.co.kr/ch31/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel32" tvg-name="Channel 32",Channel 32
+https://ch32-nlivecdn.spotvnow.co.kr/ch32/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel33" tvg-name="Channel 33",Channel 33
+https://ch33-nlivecdn.spotvnow.co.kr/ch33/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel34" tvg-name="Channel 34",Channel 34
+https://ch34-nlivecdn.spotvnow.co.kr/ch34/decr/medialist_14173921312004482655_hls.m3u8
+#EXTINF:-1 tvg-id="channel35" tvg-name="Channel 35",Channel 35
+https://ch35-nlivecdn.spotvnow.co.kr/ch35/decr/medialist_14173921312004482655_hls.m3u8
